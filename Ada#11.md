@@ -30,7 +30,9 @@ $4n^5 + 19n^4 - 13n^2 + 12n - 7$
 ---
 ### Realiza los siguientes productos
 
+![Texto alternativo](
 
+---
 
 
 
