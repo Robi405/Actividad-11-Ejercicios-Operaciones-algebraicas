@@ -30,11 +30,19 @@ $4n^5 + 19n^4 - 13n^2 + 12n - 7$
 ---
 ### Realiza los siguientes productos
 
+![Texto alternativo](https://github.com/Robi405/Actividad-11-Ejercicios-Operaciones-algebraicas/blob/0701096087a208b9ce120d9e6c3d3a3c0eb79f73/Ejercicios1.jpeg)
+
+---
+
 ![Texto alternativo](
 
 ---
 
+![Texto alternativo](
 
+---
+
+![Texto alternativo](
 
 ---
 ### Simplifica las siguientes expresiones
