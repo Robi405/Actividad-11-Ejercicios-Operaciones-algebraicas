@@ -38,7 +38,7 @@ $4n^5 + 19n^4 - 13n^2 + 12n - 7$
 
 ---
 
-![Texto alternativo](
+![Texto alternativo](https://github.com/Robi405/Actividad-11-Ejercicios-Operaciones-algebraicas/blob/9b920f266530ab3b69b040181d1e5b134ef70c3d/Ejercicios3.jpeg)
 
 ---
 
